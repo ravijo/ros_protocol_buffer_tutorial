@@ -1,5 +1,5 @@
 # Ignore extracted protobuf
-/lib/*
+/lib/protobuf-3.5.0/*
 
 # Prerequisites
 *.d
