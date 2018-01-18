@@ -9,7 +9,7 @@ Protocol Buffer tutorial for ROS
 ## Installation
 1. Download the repository or use `git clone` appropriately.
 1. Make sure to have a working ros workspace. Place the downloaded code inside source folder i.e., `src` of ros workspace.
-1. Setup protobuf. Kindly see [here](lib/README.md.md).
+1. Setup protobuf. Kindly see [here](lib/README.md).
 
 ## Compilation
 1. Invoke catkin tool inside ros workspace i.e., `catkin_make`
