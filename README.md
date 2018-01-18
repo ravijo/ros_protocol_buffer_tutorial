@@ -4,7 +4,7 @@ Protocol Buffer tutorial for ROS
 [Protocol Buffers](https://developers.google.com/protocol-buffers/) are Google's language-neutral and platform-neutral extensible mechanism for serializing structured data.
 
 ## Dependencies
-1. [Protocol Buffers](https://developers.google.com/protocol-buffers/). *Kindly read below for instllation purpose.*
+1. [Protocol Buffers](https://developers.google.com/protocol-buffers/). *Kindly read below for Installation purpose.*
 
 ## Installation
 1. Download the repository or use `git clone` appropriately.
