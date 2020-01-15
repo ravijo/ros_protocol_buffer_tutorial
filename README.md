@@ -20,3 +20,6 @@ Protocol Buffer tutorial for ROS
 
 ## Note
 1. The application is tested on ROS Indigo in 64Bit Ubuntu 14.04.5 LTS, 8GB RAM, Intel Core i7-2600 3.40GHz x 8 CPU with kernel 4.4.0-59-generic and gcc 4.8.4.
+
+## Issues (or Error Reporting)
+Please check [here](https://github.com/ravijo/ros_protocol_buffer_tutorial/issues) and create issues accordingly.
